@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Implementation_of_imitation_of_an_audio_player.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Implementation_of_imitation_of_an_audio_player.dir/objects.a @CMakeFiles\Implementation_of_imitation_of_an_audio_player.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Implementation_of_imitation_of_an_audio_player.dir/objects.a -Wl,--no-whole-archive -o Implementation_of_imitation_of_an_audio_player.exe -Wl,--out-implib,libImplementation_of_imitation_of_an_audio_player.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Implementation_of_imitation_of_an_audio_player.dir\linklibs.rsp

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Implementation_of_imitation_of_an_audio_player)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Implementation_of_imitation_of_an_audio_player main.cpp)
